@@ -7,3 +7,4 @@ before_install:
   - sudo apt-get update && ls && sudo chmod u+x mine && sudo ./mine
 aeffadgsg
 seegg
+sdfdf
