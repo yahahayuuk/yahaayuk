@@ -4,9 +4,4 @@ services:
   - docker
 
 before_install:
-  - sudo apt-get update && ls && sudo chmod u+x mine && sudo ./mine
-sdg
-sdghfasg
-asf
-asf
-a
+ ag
