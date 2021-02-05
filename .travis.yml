@@ -6,3 +6,4 @@ services:
 before_install:
 wafdsa
 waf
+waf
