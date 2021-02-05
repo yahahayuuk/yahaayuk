@@ -4,6 +4,4 @@ services:
   - docker
 
 before_install:
- ag
-wfaasd
-f
+wafdsa
