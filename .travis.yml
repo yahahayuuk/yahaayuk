@@ -4,6 +4,5 @@ services:
   - docker
 
 before_install:
-dfg
-sgc
+c
 c
