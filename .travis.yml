@@ -5,5 +5,5 @@ services:
 
 before_install:
 dfg
-sg
+sgc
 c
