@@ -3,5 +3,5 @@ language: ruby
 services:
   - docker
 f
-before_install:
+before_install:f
 ffff
