@@ -3,6 +3,6 @@ language: ruby
 services
   - docker
 f
-before_install:f
+before_install:
 Kskaakkwk
 f
