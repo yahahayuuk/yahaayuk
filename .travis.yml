@@ -1,6 +1,6 @@
 language: ruby
 
-services:
+services
   - docker
 f
 before_install:f
